@@ -1,0 +1,20 @@
+Below are links to evidence source virtual machine (VM) files as used in the digital forensic exploration of Decentraland (web-based) study.
+
+Google Chrome VM
+-----------------
+***
+
+Microsoft Edge VM
+------------------
+***
+
+Opera VM
+---------
+***
+
+***Links will be posted shortly. Due to file size, a file server is being provisioned for them.
+
+
+Regards,
+Omego
+
